@@ -1,4 +1,4 @@
-# Laravel Boilerplate - Laravel 5.7 API
+# Esports Prophet Laravel REST API - Laravel 5.7 
 
 ## Requirements
 
