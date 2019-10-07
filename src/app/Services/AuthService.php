@@ -33,7 +33,7 @@ class AuthService {
      * @return array
      */
     public function login($credentials)
-    {
+    {   
         if (!$token=auth()->attempt($credentials)) {
             throw new UnauthorizedException;
         }
